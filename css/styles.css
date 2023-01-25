@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "solitreo"
+
+}
+
+img {
+     Width:100%;    
+}
+h1 {
+    color: white;
+}
+
+p {
+    margin:0;
+    color: white;
+}
+
+.WO {
+    margin-bottom: 0;
+}
+
+.bio {
+    margin-top: 0;
+}
+
+.topcontainer {
+    background-color: #222831;
+    position: relative;
+    padding: 0;
+}
+
+.middle-container {
+    background-color: #144272;
+}
+
+.bottom-container {
+
+    background-color: #2C74B3;
+}
+.btn {
+    color: #DC0000; 
+}
+.footer-link {
+    color: #DC0000;
+    font-size: 100 px;
+}
